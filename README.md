@@ -15,7 +15,7 @@ Note:
 The distribution for the dataset is as follows:
 
 | Set           | Development Set|Evaluation Set|
-| ------------- |:------:|:-----:| ------------:|
+| ------------- |:------:|:-----:|:------------:|
 |CLASS          |TRAIN   |VAL    |EVAL          |
 |babycry        |492     |39     |25            |
 |other          |480     |39     |40            |
