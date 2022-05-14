@@ -13,11 +13,10 @@ Note:
     The dataset contains an almost equal distribution of clips between `baby-cry' and `other' classes. 
 
 The distribution for the dataset is as follows:
-|---------------------------------------------|
-| Set     | Development Set | Evaluation Set  |
-|---------------------------------------------|
-| Class   | Train  |   Val  |      Eval       |
-| BabyCry |   492  |   39   |       25        |
-|  Other  |   480  |   39   |       40        |
-|  Total  |   972  |   78   |       65        |
-|---------------------------------------------|
+
+| Set           | Development Set|Evaluation Set|
+| ------------- |:--------------:| ------------:|
+|CLASS          |TRAIN   |VAL    |EVAL          |
+|babycry        |492     |39     |25            |
+|other          |480     |39     |40            |
+|TOTAL          |972     |78     |65            |
