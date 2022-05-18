@@ -1,7 +1,7 @@
 # Baby_Cry_Detection_Database
 
 ## Description
-This novel dataset is a subset of the AudioSet, curated for Baby-cry detection task.<br />
+This dataset is a subset of the AudioSet, curated for Baby-cry detection task.<br />
 **The curated dataset is divided into**:
 1. **development set**:<br />
    The development dataset is further split into the _TRAIN_ and _VALIDATION_ sets.
@@ -81,7 +81,7 @@ This codebase provides the dataset useful for baby cry studies in the domestic e
 ## Citation
 **If this database is helpful, please feel free to cite the following paper:**
 
-**[1] Tanmay Khandelwal, Rohan Kumar Das, Eng Siong Chng. Is Your Baby Fine at Home? Baby Cry Sound Detection in Domestic Environments. APSIPA 2022: Submitted.
+**[1] Tanmay Khandelwal, Rohan Kumar Das and Eng Siong Chng, "Is Your Baby Fine at Home? Baby Cry Sound Detection in Domestic Environments", in Asia-Pacific Signal and Information Processing Association (APSIPA) Annual Summit and Conference (ASC) 2022. (Submitted).
 
 
 
