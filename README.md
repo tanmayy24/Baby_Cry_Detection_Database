@@ -81,8 +81,8 @@ This codebase provides the dataset useful for baby cry studies in the domestic e
 ## Citation
 **If this database is helpful, please feel free to cite the following paper:**
 
-Tanmay Khandelwal, Rohan Kumar Das and Eng Siong Chng, "Is Your Baby Fine at Home? Baby Cry Sound Detection in Domestic Environments", in Asia-Pacific Signal and Information Processing Association (APSIPA) Annual Summit and Conference (ASC) 2022. (Submitted).
-
+Tanmay Khandelwal, Rohan Kumar Das, and Chng Eng Siong, “Is Your Baby Fine at Home? Baby Cry Sound Detection in Domestic Environments”, in Asia-Pacific Signal and Information Processing Association (APSIPA) Annual Summit and Conference (ASC), pp. 275–280, 2022 <br />
+[Click here to access the paper](https://ieeexplore.ieee.org/document/9980350)
 
 
 
